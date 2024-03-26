@@ -1,5 +1,5 @@
 # Humpback-whale
-🐋 Document about humpback whale 
+🐋 Document about humpback whale </br>
 Webpage: https://sweet-orchard.github.io/Humpback-whale/
 
 ![image](https://github.com/sweet-orchard/Humpback-whale/assets/146839131/5d9e2f93-df7e-4a59-a8d1-d02354286dd3)
